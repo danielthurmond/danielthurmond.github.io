@@ -6,7 +6,7 @@
 - name: RISC-V
   link: https://danielthurmond.github.io/RISC-V/
   image: /assets/riscv.png
-  description: A basic RISC-V processor implementatio using SystemVerilog.
+  description: A basic RISC-V processor implementation using SystemVerilog.
 
 - name: Digital Design
   link: https://danielthurmond.github.io/DigitalDesign/
