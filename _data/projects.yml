@@ -1,6 +1,6 @@
 - name: ALU
   link: https://danielthurmond.github.io/ALU/
-  image: /assets/alu.png
+  image: /assets/ALU.png
   description: A 4-bit ALU design in Cadence Virtuoso using FreePDK45.
 
 - name: RISC-V
