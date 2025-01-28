@@ -17,8 +17,8 @@ body {
 .project-card {
     background: white;
     padding: 20px;
-    width: 300px;  /* Increased width */
-    height: 400px; /* Increased height */
+    width: 400px;  /* Increased width */
+    height: 600px; /* Increased height */
     border-radius: 10px;
     box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.2);
     transition: transform 0.2s;
@@ -34,7 +34,7 @@ body {
 
 .project-card img {
     width: 90%;  /* Make the image take most of the card width */
-    height: 200px; /* Increase image height */
+    height: 250px; /* Increase image height */
     object-fit: cover; /* Crop images to fit properly */
     border-radius: 8px;
 }
