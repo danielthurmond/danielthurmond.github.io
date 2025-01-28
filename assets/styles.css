@@ -44,18 +44,20 @@ header h1 {
 }
 
 .project-card {
-    background: white;
-    width: calc(100% - 40px); /* Make width dynamic, minus a 20px margin on each side */
-    max-width: 900px;         /* Prevent cards from getting too wide on big screens */
+    background: rgba(255, 255, 255, 0.9); /* Light white with some transparency */
+    width: calc(100% - 40px);
+    max-width: 900px;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.2);
+    box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.3);
     transition: transform 0.2s;
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
+    color: black; /* Ensures text is readable on light background */
 }
+
 
 .project-card:hover {
     transform: scale(1.02); /* Slight hover effect */
