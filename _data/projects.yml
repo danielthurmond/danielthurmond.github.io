@@ -1,17 +1,17 @@
 - name: ALU
   link: https://danielthurmond.github.io/ALU/
   image: /assets/alu.png
-  description: A 4-bit ALU design with SystemVerilog.
+  description: A 4-bit ALU design in Cadence Virtuoso using FreePDK45.
 
 - name: RISC-V
   link: https://danielthurmond.github.io/RISC-V/
   image: /assets/riscv.png
-  description: A basic RISC-V processor implementation.
+  description: A basic RISC-V processor implementatio using SystemVerilog.
 
 - name: Digital Design
   link: https://danielthurmond.github.io/DigitalDesign/
   image: /assets/digitaldesign.png
-  description: Various digital logic circuits and projects.
+  description: Various projects in Verilog and SystemVerilog.
 
 - name: Solar Car
   link: https://danielthurmond.github.io/SolarCar/
