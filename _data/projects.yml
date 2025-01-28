@@ -1,24 +1,24 @@
 - name: ALU
-  link: https://your-username.github.io/ALU/
+  link: https://danielthurmond.github.io/ALU/
   image: /assets/alu.png
   description: A 4-bit ALU design with SystemVerilog.
 
 - name: RISC-V
-  link: https://your-username.github.io/RISC-V/
+  link: https://danielthurmond.github.io/RISC-V/
   image: /assets/riscv.png
   description: A basic RISC-V processor implementation.
 
 - name: Digital Design
-  link: https://your-username.github.io/DigitalDesign/
+  link: https://danielthurmond.github.io/DigitalDesign/
   image: /assets/digitaldesign.png
   description: Various digital logic circuits and projects.
 
 - name: Solar Car
-  link: https://your-username.github.io/SolarCar/
+  link: https://danielthurmond.github.io/SolarCar/
   image: /assets/solarcar.png
   description: Embedded systems for a solar-powered vehicle.
 
 - name: SiliWiki
-  link: https://your-username.github.io/SiliWiki/
+  link: https://danielthurmond.github.io/SiliWiki/
   image: /assets/siliwiki.png
   description: A knowledge base for semiconductor design.
