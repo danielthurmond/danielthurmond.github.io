@@ -1,11 +1,13 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background: linear-gradient(135deg, #1e3c72, #2a5298); /* Deep blue gradient */
-    color: white;  /* Ensures text is readable */
+    background: linear-gradient(135deg, #00c6ff, #0072ff); /* Turquoise to deep blue */
+    color: white;
     margin: 0;
     padding: 0;
+    min-height: 100vh; /* Ensures the background covers the full page */
 }
+
 
 header {
     background: rgba(0, 0, 0, 0.7);  /* Semi-transparent overlay */
