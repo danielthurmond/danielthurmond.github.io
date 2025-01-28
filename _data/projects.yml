@@ -20,5 +20,5 @@
 
 - name: SiliWiki
   link: https://danielthurmond.github.io/SiliWiki/
-  image: /assets/siliwiki.png
-  description: A knowledge base for semiconductor design.
+  image: /assets/wafer.jpg
+  description: A knowledge base for semiconductor manufacturing and design.
