@@ -1,10 +1,37 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background: #f4f4f4;
+    background: linear-gradient(135deg, #1e3c72, #2a5298); /* Deep blue gradient */
+    color: white;  /* Ensures text is readable */
     margin: 0;
     padding: 0;
 }
+
+header {
+    background: rgba(0, 0, 0, 0.7);  /* Semi-transparent overlay */
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 900px;
+}
+
+header h1 {
+    font-size: 42px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.about-me {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 800px;
+    margin: 30px auto;
+    text-align: center;
+    font-size: 18px;
+}
+
 
 .project-grid {
     display: flex;
