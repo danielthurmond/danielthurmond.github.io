@@ -2,14 +2,10 @@
 title: Daniel Thurmond
 layout: default
 ---
-
-# My Projects
-Explore my projects below:
-
 ## About Me
 Hi! I'm Daniel Thurmond, a digital design and VLSI enthusiast. I enjoy computer architecture, VLSI, and RTL-level digital design.  
 This site showcases my projects—feel free to explore! WIP
-
+# Explore My Projects Below:
 ---
 
 <div class="project-grid">
