@@ -1,0 +1,29 @@
+- name: Silicon History, Properties, and Fundamentals
+  link: /SiliWiki/topics/silicon_fundamentals.html
+  image: /assets/silicon.png
+  description: Learn about the history of silicon, its electrical properties, and why it dominates semiconductor fabrication.
+
+- name: Circuit Design and VLSI
+  link: /SiliWiki/topics/circuit_design.html
+  image: /assets/vlsi.png
+  description: Explore the RTL-to-GDS flow, including logic design, verification, physical layout, and synthesis.
+
+- name: Foundry and Fabrication
+  link: /SiliWiki/topics/fabrication.html
+  image: /assets/fabrication.png
+  description: Learn about photolithography, doping, etching, and other processes that bring a design to silicon.
+
+- name: Packaging
+  link: /SiliWiki/topics/packaging.html
+  image: /assets/packaging.png
+  description: See how chips are packaged with wire bonding, flip-chip, and advanced interposers.
+
+- name: Silicon Industries and Applications
+  link: /SiliWiki/topics/industries.html
+  image: /assets/industries.png
+  description: Understand how semiconductors power industries like AI, automotive, medical, and consumer electronics.
+
+- name: Post-Silicon Technologies
+  link: /SiliWiki/topics/post_silicon.html
+  image: /assets/postsilicon.png
+  description: Learn about bring-up, validation, failure analysis, and lifecycle management after fabrication.
