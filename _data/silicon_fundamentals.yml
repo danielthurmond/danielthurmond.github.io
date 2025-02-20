@@ -1,0 +1,14 @@
+- name: Early Semiconductor Materials
+  link: /SiliWiki/topics/early_semiconductors/
+  image: /assets/early_semi.png
+  description: How germanium and other materials were used before silicon.
+
+- name: Properties of Silicon
+  link: /SiliWiki/topics/silicon_properties/
+  image: /assets/silicon_properties.png
+  description: Learn about silicon’s bandgap, electron mobility, and why it’s ideal for ICs.
+
+- name: How Silicon Became Dominant
+  link: /SiliWiki/topics/silicon_dominance/
+  image: /assets/silicon_dominance.png
+  description: The transition from germanium to silicon in semiconductor industry.
