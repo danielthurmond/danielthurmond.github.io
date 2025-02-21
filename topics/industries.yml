@@ -1,0 +1,24 @@
+- name: AI and High-Performance Computing
+  link: /SiliWiki/topics/ai_hpc/
+  image: /assets/ai_hpc.png
+  description: How semiconductors power AI training and supercomputers.
+
+- name: Automotive Semiconductors
+  link: /SiliWiki/topics/automotive_chips/
+  image: /assets/automotive.png
+  description: The role of chips in ADAS, EVs, and automotive safety.
+
+- name: IoT and Edge Devices
+  link: /SiliWiki/topics/iot_edge/
+  image: /assets/iot.png
+  description: Low-power designs for sensors, smart devices, and edge AI.
+
+- name: Memory Technologies
+  link: /SiliWiki/topics/memory_technologies/
+  image: /assets/memory.png
+  description: DRAM, NAND, MRAM, and the future of non-volatile memory.
+
+- name: RF and 5G Communications
+  link: /SiliWiki/topics/rf_5g/
+  image: /assets/5g.png
+  description: How RFICs enable wireless communication for 5G and beyond.
