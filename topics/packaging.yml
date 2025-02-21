@@ -1,0 +1,24 @@
+- name: Wire Bonding vs Flip-Chip
+  link: /SiliWiki/topics/wire_bonding_vs_flipchip/
+  image: /assets/wire_bonding.png
+  description: Comparing traditional wire bonding with modern flip-chip technology.
+
+- name: Ball Grid Array (BGA) Packaging
+  link: /SiliWiki/topics/bga_packaging/
+  image: /assets/bga.png
+  description: How BGA enhances performance and reduces parasitics.
+
+- name: Advanced Interposers and 2.5D Packaging
+  link: /SiliWiki/topics/interposers/
+  image: /assets/interposer.png
+  description: How interposers improve bandwidth in multi-die packages.
+
+- name: 3D Stacked ICs (TSVs)
+  link: /SiliWiki/topics/3d_stacked_ic/
+  image: /assets/3d_ic.png
+  description: The role of Through-Silicon Vias (TSVs) in 3D IC stacking.
+
+- name: Thermal and Reliability Concerns
+  link: /SiliWiki/topics/thermal_reliability/
+  image: /assets/thermal.png
+  description: Managing heat dissipation and mechanical stress in packages.
