@@ -1,0 +1,25 @@
+- name: Silicon Bring-Up
+  link: /SiliWiki/topics/silicon_bringup/
+  image: /assets/bringup.png
+  description: Powering up new silicon and debugging for the first time.
+
+- name: Post-Silicon Validation
+  link: /SiliWiki/topics/post_silicon_validation/
+  image: /assets/post_validation.png
+  description: Ensuring chips meet timing, power, and functionality specs.
+
+- name: Failure Analysis and Debug
+  link: /SiliWiki/topics/failure_analysis/
+  image: /assets/failure.png
+  description: Locating and diagnosing defects using microscopy techniques.
+
+- name: Chip Lifecycle Management
+  link: /SiliWiki/topics/chip_lifecycle/
+  image: /assets/lifecycle.png
+  description: Managing firmware updates, security, and obsolescence.
+
+- name: Future of Semiconductor Scaling
+  link: /SiliWiki/topics/future_scaling/
+  image: /assets/scaling.png
+  description: What happens beyond Moore’s Law? 3D, quantum, and more.
+
