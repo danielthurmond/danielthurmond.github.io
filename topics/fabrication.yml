@@ -1,0 +1,24 @@
+- name: Photolithography
+  link: /SiliWiki/topics/photolithography/
+  image: /assets/photolithography.png
+  description: How chips are patterned using UV light and photoresist layers.
+
+- name: Ion Implantation and Doping
+  link: /SiliWiki/topics/ion_implantation/
+  image: /assets/ion_implantation.png
+  description: Adjusting semiconductor properties by introducing dopants.
+
+- name: Etching and Deposition
+  link: /SiliWiki/topics/etching_deposition/
+  image: /assets/etching.png
+  description: Techniques like dry etching and chemical vapor deposition.
+
+- name: Chemical-Mechanical Polishing (CMP)
+  link: /SiliWiki/topics/cmp/
+  image: /assets/cmp.png
+  description: How surfaces are smoothed for better layer adhesion.
+
+- name: Wafer Dicing and Assembly
+  link: /SiliWiki/topics/wafer_dicing/
+  image: /assets/wafer_dicing.png
+  description: Cutting wafers into individual dies before packaging.
